@@ -46,5 +46,5 @@ Live demo: [LINK](https://vercel.com/mshchebetiuks-projects/landing-dashboard/4o
 ## 🔧 Getting Started
 1. Clone the repository
 ```bash
-git clone https://github.com/mshchebetiuk/weather-app.git
+git clone https://github.com/mshchebetiuk/landing-dashboard.git
 
