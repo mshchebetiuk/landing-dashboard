@@ -1,0 +1,14 @@
+.app {
+  padding: 24px;
+  font-family: Arial, sans-serif;
+}
+
+.filters {
+  margin-bottom: 16px;
+}
+
+.filters button {
+  margin-right: 8px;
+  padding: 6px 12px;
+  cursor: pointer;
+}

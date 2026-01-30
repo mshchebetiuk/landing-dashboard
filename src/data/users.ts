@@ -1,0 +1,36 @@
+import type { User } from '../types/user';
+
+export const USERS: User[] = [
+    { id: 1, name: "Anna", email: "anna1@gmail.com", isActive: true },
+    { id: 2, name: "Maksym", email: "maksym2@outlook.com", isActive: false },
+    { id: 3, name: "Kevin", email: "kevin3@gmail.com", isActive: true },
+    { id: 4, name: "Oleh", email: "oleh4@yahoo.com", isActive: true },
+    { id: 5, name: "Ivan", email: "ivan5@gmail.com", isActive: false },
+    { id: 6, name: "Maria", email: "maria6@outlook.com", isActive: true },
+    { id: 7, name: "Olena", email: "olena7@gmail.com", isActive: false },
+    { id: 8, name: "Dmytro", email: "dmytro8@yahoo.com", isActive: true },
+    { id: 9, name: "Sofia", email: "sofia9@gmail.com", isActive: true },
+    { id: 10, name: "Andrii", email: "andrii10@outlook.com", isActive: false },
+
+    { id: 11, name: "Yulia", email: "yulia11@gmail.com", isActive: true },
+    { id: 12, name: "Denys", email: "denys12@yahoo.com", isActive: false },
+    { id: 13, name: "Kateryna", email: "kateryna13@gmail.com", isActive: true },
+    { id: 14, name: "Roman", email: "roman14@outlook.com", isActive: true },
+    { id: 15, name: "Iryna", email: "iryna15@gmail.com", isActive: false },
+    { id: 16, name: "Pavlo", email: "pavlo16@yahoo.com", isActive: true },
+    { id: 17, name: "Artem", email: "artem17@gmail.com", isActive: false },
+    { id: 18, name: "Viktoria", email: "viktoria18@outlook.com", isActive: true },
+    { id: 19, name: "Bohdan", email: "bohdan19@gmail.com", isActive: true },
+    { id: 20, name: "Alina", email: "alina20@yahoo.com", isActive: false },
+
+    // { id: 21, name: "Serhii", email: "serhii21@gmail.com", isActive: true },
+    // { id: 22, name: "Tetiana", email: "tetiana22@outlook.com", isActive: false },
+    // { id: 23, name: "Mykola", email: "mykola23@gmail.com", isActive: true },
+    // { id: 24, name: "Nazar", email: "nazar24@yahoo.com", isActive: false },
+    // { id: 25, name: "Oksana", email: "oksana25@gmail.com", isActive: true },
+    // { id: 26, name: "Taras", email: "taras26@outlook.com", isActive: true },
+    // { id: 27, name: "Lilia", email: "lilia27@gmail.com", isActive: false },
+    // { id: 28, name: "Stepan", email: "stepan28@yahoo.com", isActive: true },
+    // { id: 29, name: "Inna", email: "inna29@gmail.com", isActive: false },
+    // { id: 30, name: "Yaroslav", email: "yaroslav30@outlook.com", isActive: true },
+]
