@@ -39,7 +39,7 @@ Works correctly on:
 - Mobile
 
 ## 📸 Preview
-Live demo: [LINK](https://landing-dashboard-j29djt2tk-mshchebetiuks-projects.vercel.app/)
+Live demo: [LINK](https://landing-dashboard-mshchebetiuk.netlify.app/)
 
 <img width="1680" height="936" alt="image" src="https://github.com/user-attachments/assets/25b3a67d-ad2f-4af1-ba65-0789405ca321" />
 
